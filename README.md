@@ -79,8 +79,6 @@ Table of Contents
 
 **[Hardware]** Xue, S., Zhao, S., Chen, Q., Deng, G., Liu, Z., Zhang, J., Song, Z., Ma, T., Yang, Y., Zhou, Y., Niu, K., Sun, S., & Guo, M. (2020). Spool: Reliable virtualized NVMe storage pool in public cloud infrastructure. Proceedings of the 2020 USENIX Annual Technical Conference, ATC 2020, 97–110.
 
-**[Components]** Mozafari, B., Curino, C., Jindal, A., & Madden, S. (2013). Performance and resource modeling in highly-concurrent OLTP workloads. Proceedings of the ACM SIGMOD International Conference on Management of Data, 301–312. https://doi.org/10.1145/2463676.2467800
-
 **[Memory]** Kalia, A., Andersen, D., & Kaminsky, M. (2020). Challenges and solutions for fast remote persistent memory access. SoCC 2020 - Proceedings of the 2020 ACM Symposium on Cloud Computing, 105–119. https://doi.org/10.1145/3419111.3421294
 
 **[Memory]** Wei, X., Chen, R., Chen, H., Jiao, S., Wei, X., Chen, R., & Chen, H. (2020). Fast RDMA-based Ordered Key-Value Store using Remote Learned Cache. Proceedings of the 14th USENIX Symposium on Operating Systems Design and Implementation Fast RDMA-Based Ordered Key-Value Store Using Remote Learned Cache.
