@@ -17,37 +17,37 @@ Table of Contents
 
 ## 0. Unmerged
 
-**[Minotor]** Curino, C., Jones, E. P. C., Madden, S., & Balakrishnan, H. (2011). Workload-aware database monitoring and consolidation. Proceedings of the ACM SIGMOD International Conference on Management of Data, 313–324. [ [paper] (https://doi.org/10.1145/1989323.1989357) ]
+**[Minotor]** Curino, C., Jones, E. P. C., Madden, S., & Balakrishnan, H. (2011). Workload-aware database monitoring and consolidation. Proceedings of the ACM SIGMOD International Conference on Management of Data, 313–324. [[paper](https://doi.org/10.1145/1989323.1989357) ]
 
 ## 1. Survey & Tutorial
 
-**[Survey]** Armbrust, A. Fox, and R. Griffith, M. (2009). Above the clouds: A Berkeley view of cloud computing. University of California, Berkeley, Tech. Rep. UCB, 07–013. [ [paper] (https://doi.org/10.1145/1721654.1721672) ]
+**[Survey]** Armbrust, A. Fox, and R. Griffith, M. (2009). Above the clouds: A Berkeley view of cloud computing. University of California, Berkeley, Tech. Rep. UCB, 07–013. [[paper](https://doi.org/10.1145/1721654.1721672) ]
 
-**[Survey]** Jonas, E., Schleier-Smith, J., Sreekanti, V., Tsai, C.-C., Khandelwal, A., Pu, Q., Shankar, V., Carreira, J., Krauth, K., Yadwadkar, N., Gonzalez, J. E., Popa, R. A., Stoica, I., & Patterson, D. A. (2019). Cloud Programming Simplified: A Berkeley View on Serverless Computing. [ [paper] (http://arxiv.org/abs/1902.03383) ]
+**[Survey]** Jonas, E., Schleier-Smith, J., Sreekanti, V., Tsai, C.-C., Khandelwal, A., Pu, Q., Shankar, V., Carreira, J., Krauth, K., Yadwadkar, N., Gonzalez, J. E., Popa, R. A., Stoica, I., & Patterson, D. A. (2019). Cloud Programming Simplified: A Berkeley View on Serverless Computing. [[paper](http://arxiv.org/abs/1902.03383) ]
 
-**[Survey]** Li, F. (2018). Cloud native database systems at Alibaba: Opportunities and challenges. Proceedings of the VLDB Endowment, 12(12), 2263–2272. [ [paper] (https://doi.org/10.14778/3352063.3352141) ]
+**[Survey]** Li, F. (2018). Cloud native database systems at Alibaba: Opportunities and challenges. Proceedings of the VLDB Endowment, 12(12), 2263–2272. [[paper](https://doi.org/10.14778/3352063.3352141) ]
 
 ## 2. Database as a Service
 
-**[DBaaS]** Depoutovitch, A., Chen, C., Chen, J., Larson, P., Lin, S., Ng, J., Cui, W., Liu, Q., Huang, W., Xiao, Y., & He, Y. (2020). Taurus Database: How to be Fast, Available, and Frugal in the Cloud. Proceedings of the ACM SIGMOD International Conference on Management of Data, 1463–1478. [ [paper] (https://doi.org/10.1145/3318464.3386129) ]
+**[DBaaS]** Depoutovitch, A., Chen, C., Chen, J., Larson, P., Lin, S., Ng, J., Cui, W., Liu, Q., Huang, W., Xiao, Y., & He, Y. (2020). Taurus Database: How to be Fast, Available, and Frugal in the Cloud. Proceedings of the ACM SIGMOD International Conference on Management of Data, 1463–1478. [[paper](https://doi.org/10.1145/3318464.3386129) ]
 
-**[DBaaS]** Taft, R., Lang, W., Duggan, J., Elmore, A. J., Stonebraker, M., & De Witt, D. (2016). STeP: Scalable tenant placement for managing database-as-a-service deployments. Proceedings of the 7th ACM Symposium on Cloud Computing, SoCC 2016, 388–400. [ [paper] (https://doi.org/10.1145/2987550.2987575) ]
+**[DBaaS]** Taft, R., Lang, W., Duggan, J., Elmore, A. J., Stonebraker, M., & De Witt, D. (2016). STeP: Scalable tenant placement for managing database-as-a-service deployments. Proceedings of the 7th ACM Symposium on Cloud Computing, SoCC 2016, 388–400. [[paper](https://doi.org/10.1145/2987550.2987575) ]
 
-**[DBaaS]** Das, S., Li, F., Narasayya, V. R., & König, A. C. (2016). Automated demand-driven resource scaling in relational database-as-a-service. Proceedings of the ACM SIGMOD International Conference on Management of Data, 26-June-2016, 1923–1934. [ [paper] (https://doi.org/10.1145/2882903.2903733) ]
+**[DBaaS]** Das, S., Li, F., Narasayya, V. R., & König, A. C. (2016). Automated demand-driven resource scaling in relational database-as-a-service. Proceedings of the ACM SIGMOD International Conference on Management of Data, 26-June-2016, 1923–1934. [[paper](https://doi.org/10.1145/2882903.2903733) ]
 
-**[DBaaS]** Narasayya, V., Menache, I., Singh, M., Li, F., Syamala, M., & Chaudhuri, S. (2015). Sharing Buffer Pool Memory in Multi-Tenant Relational. Proceedings of the VLDB Endowment, 8(7), 726-737. [ [paper] (https://doi.org/10.14778/2752939.2752942) ]
+**[DBaaS]** Narasayya, V., Menache, I., Singh, M., Li, F., Syamala, M., & Chaudhuri, S. (2015). Sharing Buffer Pool Memory in Multi-Tenant Relational. Proceedings of the VLDB Endowment, 8(7), 726-737. [[paper](https://doi.org/10.14778/2752939.2752942) ]
 
 ## 3. Auto-scaling & Partition
 
-**[Auto-scaling]** Perron, M., Castro Fernandez, R., Dewitt, D., & Madden, S. (2020). Starling: A Scalable Query Engine on Cloud Functions. Proceedings of the ACM SIGMOD International Conference on Management of Data, 131–141. [ [paper] (https://doi.org/10.1145/3318464.3380609) ]
+**[Auto-scaling]** Perron, M., Castro Fernandez, R., Dewitt, D., & Madden, S. (2020). Starling: A Scalable Query Engine on Cloud Functions. Proceedings of the ACM SIGMOD International Conference on Management of Data, 131–141. [[paper](https://doi.org/10.1145/3318464.3380609) ]
 
-**[Auto-scaling]** Shen, Z., Subbiah, S., Gu, X., & Wilkes, J. (2011). CloudScale: Elastic resource scaling for multi-tenant cloud systems. Proceedings of the 2nd ACM Symposium on Cloud Computing, SOCC 2011. [ [paper] (https://doi.org/10.1145/2038916.2038921) ]
+**[Auto-scaling]** Shen, Z., Subbiah, S., Gu, X., & Wilkes, J. (2011). CloudScale: Elastic resource scaling for multi-tenant cloud systems. Proceedings of the 2nd ACM Symposium on Cloud Computing, SOCC 2011. [[paper](https://doi.org/10.1145/2038916.2038921) ]
 
-**[Auto-scaling]** Wu, C., Sreekanti, V., & Hellerstein, J. M. (2021). Autoscaling tiered cloud storage in Anna. VLDB Journal, 30(1), 25–43. [ [paper] (https://doi.org/10.1007/s00778-020-00632-7) ] 
+**[Auto-scaling]** Wu, C., Sreekanti, V., & Hellerstein, J. M. (2021). Autoscaling tiered cloud storage in Anna. VLDB Journal, 30(1), 25–43. [[paper](https://doi.org/10.1007/s00778-020-00632-7) ] 
 
-**[Auto-scaling] [Disaggregation]** Zhang, Y., Ruan, C., Li, C., Yang, J., Cao, W., Li, F., Wang, B., Fang, J., Wang, Y., Huo, J., & Bi, C. (2021). Towards Cost-Effective and Elastic Cloud Database Deployment via Memory Disaggregation. Proc. VLDB Endow., 14(1), 1900–1912. [ [paper] (https://doi.org/10.14778/3467861.3467877) ] 
+**[Auto-scaling] [Disaggregation]** Zhang, Y., Ruan, C., Li, C., Yang, J., Cao, W., Li, F., Wang, B., Fang, J., Wang, Y., Huo, J., & Bi, C. (2021). Towards Cost-Effective and Elastic Cloud Database Deployment via Memory Disaggregation. Proc. VLDB Endow., 14(1), 1900–1912. [[paper](https://doi.org/10.14778/3467861.3467877) ] 
 
-**[Partition]** Hilprecht, B., Binnig, C., & Röhm, U. (2020). Learning a Partitioning Advisor for Cloud Databases. Proceedings of the ACM SIGMOD International Conference on Management of Data, 143–157. [ [paper] (https://doi.org/10.1145/3318464.3389704) ]
+**[Partition]** Hilprecht, B., Binnig, C., & Röhm, U. (2020). Learning a Partitioning Advisor for Cloud Databases. Proceedings of the ACM SIGMOD International Conference on Management of Data, 143–157. [[paper](https://doi.org/10.1145/3318464.3389704) ]
 
 ## 4. Disaggregation
 
