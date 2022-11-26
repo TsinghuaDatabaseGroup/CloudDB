@@ -18,7 +18,7 @@ Table of Contents
 
 ## 0. Unmerged
 
-**[Minotor]** Curino, C., Jones, E. P. C., Madden, S., & Balakrishnan, H. (2011). Workload-aware database monitoring and consolidation. Proceedings of the ACM SIGMOD International Conference on Management of Data, 313–324. [[paper](https://doi.org/10.1145/1989323.1989357) ]
+**[Monitor]** Curino, C., Jones, E. P. C., Madden, S., & Balakrishnan, H. (2011). Workload-aware database monitoring and consolidation. Proceedings of the ACM SIGMOD International Conference on Management of Data, 313–324. [[paper](https://doi.org/10.1145/1989323.1989357) ]
 
 ## 1. Survey & Tutorial
 
@@ -109,8 +109,6 @@ Table of Contents
 **[Application]** Yu, X., Youill, M., Woicik, M., Ghanem, A., Serafini, M., Aboulnaga, A., & Stonebraker, M. (2020). PushdownDB: Accelerating a DBMS Using S3 Computation. Proceedings - International Conference on Data Engineering, 2020-April, 1802–1805. [[paper](https://doi.org/10.1109/ICDE48307.2020.00174)]
 
 **[Application]** Antonopoulos, P., Budovski, A., Diaconu, C., Saenz, A. H., Hu, J., Kodavalla, H., Kossmann, D., Lingam, S., Minhas, U. F., Prakash, N., Purohit, V., Qu, H., Ravella, C. S., Reisteter, K., Shrotri, S., Tang, D., & Wakade, V. (2019). Socrates: The new SQL server in the cloud. Proceedings of the ACM SIGMOD International Conference on Management of Data, 1743–1756. [[paper](https://doi.org/10.1145/3299869.3314047)]
-
-**[Industry]** Verbitski, A., Gupta, A., Saha, D., Corey, J., Gupta, K., Brahmadesam, M., Mittal, R., Krishnamurthy, S., Maurice, S., Kharatishvilli, T., & Bao, X. (2018). Amazon Aurora. 789–796. [[paper](https://doi.org/10.1145/3183713.3196937)]
 
 **[Industry]** Verbitski, A., Gupta, A., Saha, D., Corey, J., Gupta, K., Brahmadesam, M., Mittal, R., Krishnamurthy, S., Maurice, S., Kharatishvilli, T., & Bao, X. (2018). Amazon Aurora. 789–796. [[paper](https://doi.org/10.1145/3183713.3196937)]
 
